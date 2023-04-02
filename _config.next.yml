@@ -93,7 +93,7 @@ menu:
 
     Troubleshooting: /troubleshooting.html || fa fa-life-ring
 
-  Plugins: /plugins/ || fa fa-flask
+  about: /plugins/ || fa fa-flask
   archives: /archives/ || fa fa-archive
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
