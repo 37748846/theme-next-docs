@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories: []
-date: ''
+date: Sun, 02 Apr 2023 19:06:32 GMT
 excerpt: 折腾qexo,hexo的后台应用 简略聊聊 弄了hexo博客系统后,发现没有后台,只能命令符发布文章 然后测试了很多后台程序,对于小白的我来说真的太难了,
   偶然间看到qexo,支持所见即所得markd...
 tags:
@@ -9,7 +9,7 @@ tags:
 - MongoDB
 - Qexo
 title: 折腾Qexo,Hexo的后台应用
-updated: Sun, 02 Apr 2023 14:59:52 GMT
+updated: Sun, 02 Apr 2023 19:06:32 GMT
 ---
 # 折腾qexo,hexo的后台应用
 
@@ -56,7 +56,6 @@ MongoDB一次成功
 [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/am-abudu/Qexo)
 
 首次部署会报错, 请无视并重新进入项目, 在项目设置界面添加环境变量 Environment Variables
-
 
 | 名称          | 意义                                    | 示例                                    |
 | ------------- | --------------------------------------- | --------------------------------------- |
