@@ -42,7 +42,7 @@ creative_commons:
 menu:
   home: / || fa fa-bell
 
-  Docs:
+ # Docs:
     default: /docs/ || fa fa-book
 
     Getting Started:
