@@ -9,8 +9,8 @@
 custom_file_path:
 #  sidebar: source/_data/sidebar.njk
 #  footer: source/_data/footer.njk
-  variable: source/_data/variables.styl
-  style: source/_data/styles.styl
+#  variable: source/_data/variables.styl
+#  style: source/_data/styles.styl
 
 
 # ============================================================= #
