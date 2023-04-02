@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories: []
-date: ''
+date: Sun, 02 Apr 2023 19:07:05 GMT
 excerpt: 简要流程 使用Github登陆Netlify。 使用StaticGen一键初始化Hexo仓库。 将Hexo源码仓库Clone到本地,调整网站配置,编写文章。
   本地无需Nodejs、NPM、Hexo环境...
 tags:
@@ -10,7 +10,7 @@ tags:
 - Hexo
 - StaticGen
 title: 使用StaticGen一键初始化Hexo仓库
-updated: Sun, 02 Apr 2023 14:54:29 GMT
+updated: Sun, 02 Apr 2023 19:07:05 GMT
 ---
 # 简要流程
 
