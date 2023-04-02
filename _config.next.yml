@@ -126,8 +126,18 @@ social:
 
 social_icons:
   enable: true
-  icons_only: true
+  icons_only: false
   transition: true
+
+# Blog rolls
+links_settings:
+  icon: fa fa-link
+  title: links
+  # Available values: block | inline
+  layout: block
+
+links:
+  你瞅啥: http://www.ncs.fun
 
 toc:
   enable: true
