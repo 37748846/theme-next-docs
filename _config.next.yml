@@ -142,7 +142,7 @@ links:
 toc:
   enable: true
   number: true
-  wrap: true
+  wrap: false
 
 
 # ============================================================= #
