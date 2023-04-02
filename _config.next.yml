@@ -121,7 +121,7 @@ avatar:
 
 social:
   GitHub: https://github.com/37748846/ || fab fa-github
-  离线下载: https://dl.ncs.fun || fa fa-download fa-fw
+  离线下载: http://dl.ncs.fun || fa fa-download fa-fw
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
