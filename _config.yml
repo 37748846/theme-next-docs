@@ -3,14 +3,21 @@
 #################################################################
 
 # Site
-title: NexT
-description: NexT - An elegant and powerful theme for Hexo.
-keywords: "Hexo, NexT"
-language: en
-timezone: UTC
+#title: NexT
+#description: NexT - An elegant and powerful theme for Hexo.
+#keywords: "Hexo, NexT"
+#language: en
+#timezone: UTC
+title: 你瞅啥
+subtitle: '当成个笔记网站吧!'
+description: '什么时候学习成为消遣了?'
+keywords:
+author: MC的踩坑笔记
+language: zh-CN
+timezone: ''
 
 # URL
-url: https://theme-next.js.org
+url: https://ncs.fun
 permalink: :title/
 permalink_defaults:
 
