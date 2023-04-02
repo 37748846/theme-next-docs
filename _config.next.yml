@@ -164,7 +164,7 @@ footer:
 
 post_meta:
   updated_at:
-    enable: false
+    enable: true
 
 symbols_count_time:
   separated_meta: true
