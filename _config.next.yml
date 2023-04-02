@@ -42,7 +42,7 @@ creative_commons:
 menu:
   home: / || fa fa-bell
 
- # Docs:
+  Docs:
     default: /docs/ || fa fa-book
 
     Getting Started:
@@ -118,8 +118,8 @@ avatar:
   rounded: true
 
 social:
-  GitHub: https://github.com/next-theme || fab fa-github
-  Crowdin: https://crowdin.com/project/hexo-theme-next || fa fa-globe-asia
+  GitHub: https://github.com/37748846/ || fab fa-github
+  Crowdin: https://dl.ncs.fun || fa fa-globe-asia
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
@@ -143,7 +143,7 @@ footer:
     name: fa fa-heart
     animated: true
     color: "#808080"
-  copyright: NexT
+  copyright: MC
 
 
 # ============================================================= #
@@ -160,7 +160,7 @@ symbols_count_time:
 
 post_edit:
   enable: true
-  url: https://github.com/next-theme/theme-next-docs/edit/master/source/
+  url: https://github.com/37748846/theme-next-docs/edit/master/source/
 
 
 # ============================================================= #
@@ -183,7 +183,7 @@ back2top:
   scrollpercent: true
 
 github_banner:
-  enable: true
+  enable: false
   permalink: https://github.com/next-theme/hexo-theme-next
   title: Fork NexT on GitHub
 
@@ -202,7 +202,7 @@ index_with_subtitle: true
 
 exturl: true
 
-google_site_verification: 5AUIVYTbHIAuz-eQtxSfZbWW5eg9_EVZMSQycIuXrG0
+google_site_verification: 5AUIVYTbHIAuz-eQtxSfZbWW5eg9_EVZMSQycIuXrG
 
 
 # ============================================================= #
@@ -258,7 +258,7 @@ disqus:
 # ============================================================= #
 
 google_analytics:
-  tracking_id: G-43861RVV8R
+  tracking_id: G-43861RVV8
 
 
 # ============================================================= #
@@ -276,7 +276,7 @@ local_search:
 # ============================================================= #
 
 gitter:
-  enable: true
+  enable: false
   room: hexo-next/community
 
 
