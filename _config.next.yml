@@ -169,7 +169,7 @@ footer:
 # Post meta display settings
 post_meta:
   item_text: true    #  可以一行显示,文章的所有属性
-  created_at: false    # 显示创建时间
+  created_at: true    # 显示创建时间
   updated_at:
     enabled: false     # 显示修改的时间
     another_day: true  # 设true时,如果创建时间和修改时间一样则显示一个时间
