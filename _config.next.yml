@@ -7,8 +7,8 @@
 # ============================================================= #
 
 custom_file_path:
-  sidebar: source/_data/sidebar.njk
-  footer: source/_data/footer.njk
+#  sidebar: source/_data/sidebar.njk
+#  footer: source/_data/footer.njk
   variable: source/_data/variables.styl
   style: source/_data/styles.styl
 
@@ -121,12 +121,12 @@ avatar:
 
 social:
   GitHub: https://github.com/37748846/ || fab fa-github
-  Arsa2: https://dl.ncs.fun || fa fa-download fa-fw
+  离线下载: https://dl.ncs.fun || fa fa-download fa-fw
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
   enable: true
-  icons_only: false
+  icons_only: true
   transition: true
 
 # Blog rolls
