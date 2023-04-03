@@ -299,8 +299,9 @@ local_search:
 # ============================================================= #
 
 gitter:
-  enable: false
-  room: hexo-next/community
+  enable: true
+#  room: hexo-next/community
+   room:ncs
 
 
 # ============================================================= #
