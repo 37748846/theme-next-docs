@@ -300,8 +300,8 @@ local_search:
 
 gitter:
   enable: false
-#  room: hexo-next/community
-   room: ncs-hexo/community
+  room: hexo-next/community
+#   room: ncs-hexo/community
 
 
 # ============================================================= #
