@@ -301,7 +301,7 @@ local_search:
 gitter:
   enable: true
 #  room: hexo-next/community
-   room: ncs-hexo/community
+   room: ncs/community
 
 
 # ============================================================= #
