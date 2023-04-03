@@ -202,7 +202,7 @@ codeblock:
 back2top:
   enable: true
   sidebar: false
-  scrollpercent: true
+  scrollpercent: true   #滚动百分比
 
 github_banner:
   enable: false
@@ -276,7 +276,7 @@ disqus:
 
 
 # ============================================================= #
-# ================= Statistics and Analytics ================== #
+# ================= Statistics and Analytics统计 ================== #
 # ============================================================= #
 
 google_analytics:
