@@ -271,7 +271,7 @@ comments:
   lazyload: true
 
 disqus:
-  enable: true
+  enable: false
   shortname: next-theme
   count: true
 
