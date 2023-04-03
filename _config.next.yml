@@ -203,9 +203,10 @@ back2top:
   enable: true
   sidebar: false
   scrollpercent: true   #滚动百分比
-
+ 
+ # 用于设置右上角GitHub横幅。
 github_banner:
-  enable: false
+  enable: false  
   permalink: https://github.com/next-theme/hexo-theme-next
   title: Fork NexT on GitHub
 
