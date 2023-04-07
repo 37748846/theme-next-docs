@@ -93,7 +93,7 @@ menu:
 
 #    Troubleshooting: /troubleshooting.html || fa fa-life-ring
 
-  about: /plugins/ || fa fa-flask
+  about: /plugins/ || fa fa-user fa-fw
   archives: /archives/ || fa fa-archive
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -122,6 +122,7 @@ avatar:
 social:
   GitHub: https://github.com/37748846/ || fab fa-github
   离线下载: http://dl.ncs.fun || fa fa-download fa-fw
+  Alist: http://alist.ncs.fun || fa fa-list fa-fw
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
