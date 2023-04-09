@@ -7,7 +7,7 @@ tags:
 - git
 - 项目
 title: github desktop 设置 git 项目调用(链接、引用)外部 repo
-updated: Sun, 09 Apr 2023 03:08:14 GMT
+updated: Sun, 09 Apr 2023 03:19:02 GMT
 ---
 0 前言
 b站操作视频:https://www.bilibili.com/video/BV1YB4y1g7Jv/
@@ -16,21 +16,33 @@ b站操作视频:https://www.bilibili.com/video/BV1YB4y1g7Jv/
 
 看到很多GitHub仓库引用了别人的仓库,就像做了个软链接一样:
 
+![](https://img-blog.csdnimg.cn/49daf9ae4d9e41369b9da23fa8b2fbe3.png)
+
 点进去打开之后是另一个的GitHub仓库(可以是别人的 repo)。
 
 1 操作流程
 已经使用GitHub Desktop克隆了一个项目yolo2via到本地。
 在GitHub Desktop中点击Repository --> Open in Command Prompt
 
+![](https://img-blog.csdnimg.cn/1657f3a9593a4412bfbda148083b670a.png)
+
 然后我们就看到一个终端,如下图
+
+![](https://img-blog.csdnimg.cn/712975a792324715aaee3650a6db936d.png)
 
 比如我们想要引用yolov7这份项目,在终端输入:
 
 git submodule add https://github.com/WongKinYiu/yolov7.git yolov7
 
+![](https://img-blog.csdnimg.cn/5ba40743e6364faa843a022f5fc831e7.png)
+
 再打开github desktop,输入更新说明,点击Commit to Main,最后点击Fetch origin
 
+![](https://img-blog.csdnimg.cn/c98f8bccac064856abdfc9d2aaeb52fb.png)
+
 再进入github网站,可以看到yolov7添加进去了
+
+![](https://img-blog.csdnimg.cn/8209170535414126963fd0780e69cf9f.png)
 
 2 更多yolo
 yolov1
