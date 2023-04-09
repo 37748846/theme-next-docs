@@ -278,7 +278,7 @@ disqus:
   
 # 支持 LiveRe 评论系统。
 # 你可以从 https://livere.com/insight/myCode (General web site) 获取你的 uid 
-livere_uid: MTAyMC81ODMyOS8zNDc5Mg==
+#livere_uid: MTAyMC81ODMyOS8zNDc5Mg==
 
 # ============================================================= #
 # ================= Statistics and Analytics统计 ================== #
