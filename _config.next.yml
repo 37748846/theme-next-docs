@@ -98,7 +98,7 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   tags: /tags/ || fa fa-tags
-  Waline： /https://nhexopl.ncs.fun/ui/ || far fa-comment
+  
   
 menu_settings:
   icons: true
@@ -125,6 +125,7 @@ social:
   离线下载: http://dl.ncs.fun || fa fa-download fa-fw
   Alist: http://alist.ncs.fun || fa fa-list fa-fw
   RSS: /atom.xml || fa fa-rss
+  Waline: https://nhexopl.ncs.fun/ui/ || far fa-comment
 
 social_icons:
   enable: true
