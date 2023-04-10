@@ -284,7 +284,7 @@ disqus:
   # For more information: https://waline.js.org, https://github.com/walinejs/waline
   waline:
     enable: true #是否开启
-    serverURL: https://nhexopl.ncs.fun/ # Waline 服务端地址，这里填Railway里给的那个域名
+    serverURL: nhexopl.ncs.fun # Waline 服务端地址，这里填Railway里给的那个域名
     placeholder: 要文明评论哦, 不然会被打屁屁 # #评论框的默认文字
     avatar: mm # 头像风格
     meta: [nick, mail, link] # 自定义评论框上面的三个输入框的内容
