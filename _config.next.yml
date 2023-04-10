@@ -98,6 +98,7 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   tags: /tags/ || fa fa-tags
+  Waline： http://nhexopl.ncs.fun || far fa-comment
   
 menu_settings:
   icons: true
