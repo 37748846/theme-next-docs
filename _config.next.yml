@@ -255,7 +255,7 @@ mermaid:
 
 math:
   mathjax:
-    enable: true
+    enable: false
     tags: ams
 
 pjax: true
