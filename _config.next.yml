@@ -93,7 +93,8 @@ menu:
 
 #    Troubleshooting: /troubleshooting.html || fa fa-life-ring
 
-  about: /plugins/ || fa fa-user fa-fw
+  about: /about/ || fa fa-user fa-fw
+  #plugins: /plugins/ || fa fa-user fa-fw
   archives: /archives/ || fa fa-archive
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
