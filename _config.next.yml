@@ -31,7 +31,7 @@ darkmode: true
 
 creative_commons:
   license: by-nc-sa
-  size: big
+  size: small
   sidebar: true
 
 
@@ -148,7 +148,7 @@ links:
 toc:
   enable: true
   number: true
-  wrap: false
+  wrap: true
 
 
 # ============================================================= #
@@ -288,9 +288,9 @@ disqus:
 # For more information: https://waline.js.org, https://github.com/walinejs/waline
 waline:
   enable: true #是否开启
-  serverURL: nhexopl.ncs.fun # Waline #服务端地址，我们这里就是上面部署的 Vercel 地址
+  serverURL: https://nhexopl.ncs.fun/ # Waline #服务端地址，我们这里就是上面部署的 Vercel 地址
   placeholder: 请文明评论呀 # #评论框的默认文字
-  avatar: mm # 头像风格
+  avatar: mg # 头像风格
   meta: [mail, nick, link] # 自定义评论框上面的三个输入框的内容
   pageSize: 10 # 评论数量多少时显示分页
   lang: zh-cn # 语言, 可选值: en, zh-cn
